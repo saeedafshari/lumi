@@ -1,0 +1,2 @@
+c:\users\saeed\documents\visual studio 2010\Projects\Lumi\Lumi\LumiContent\obj\x86\Debug\LumiContent.contentprojResolveAssemblyReference.cache
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\LumiContent\obj\x86\Debug\LumiContent.contentprojResolveAssemblyReference.cache

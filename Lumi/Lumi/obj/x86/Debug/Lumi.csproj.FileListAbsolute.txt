@@ -1,0 +1,150 @@
+c:\users\saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\obj\x86\Debug\Lumi.csprojResolveAssemblyReference.cache
+c:\users\saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\standing-walking.xnb
+c:\users\saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Lumi.exe
+c:\users\saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Lumi.pdb
+c:\users\saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Neat.exe
+c:\users\saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Neat.pdb
+c:\users\saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\obj\x86\Debug\Lumi.exe
+c:\users\saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\obj\x86\Debug\Lumi.pdb
+c:\users\saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\TexLighting.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\Shadow.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\editor.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\sheet1.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\Normal.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\FxFont.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\SmallFont.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\MenuFont2.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\MessageBoxTextFont.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\MessageBoxTitleFont.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\Calibri.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\ConsoleFont.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\Cambria.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\FormFont.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\ElegantFont.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\blank.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\BLEEP10.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\BLEEP3.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\BLEEP6.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\mute.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\typewriter-backspace-1.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\typewriter-forward-1.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\typewriter-key-1.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\typewriter-line-break-1.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\typewriter-paper-roll-up-1.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\typewriter-return-1.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\typewriter-space-bar-1.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\elegantdying.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\blank.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\buttonBG.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\checkbox.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\checkbox_empty.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\checked.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\Error.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\gamercardHUD.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\icon.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\mediaHUD.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\menuFocus.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\messagebox.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\mouse.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\msgBox_button.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\msgBox_buttonFocus.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\msgbox_text.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\msgbox_yesno.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\solid.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\transparent.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\neatlogo.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\buttonBG1.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\WindowSheet.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\pointers.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\Kinect\Bone.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\Kinect\ChooserBackground.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\Kinect\Header.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\Kinect\Joint.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\Kinect\tiltbuttons.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\Triangle.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\ColorFilter.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\Ripple.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\Crop.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\TextureWrapper.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\Circle.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\KinectColorVisualizer.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\KinectDepthVisualizer.xnb
+C:\Users\Saeed\documents\visual studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\blank.wma
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\standing-walking.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\editor.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\sheet1.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\TexLighting.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\Shadow.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Lumi.exe
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Lumi.pdb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Neat.exe
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Neat.pdb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\obj\x86\Debug\Lumi.csprojResolveAssemblyReference.cache
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\obj\x86\Debug\Lumi.exe
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\obj\x86\Debug\Lumi.pdb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\Normal.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\FxFont.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\SmallFont.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\MenuFont2.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\MessageBoxTextFont.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\MessageBoxTitleFont.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\Calibri.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\ConsoleFont.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\Cambria.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\FormFont.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Fonts\ElegantFont.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\blank.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\BLEEP10.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\BLEEP3.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\BLEEP6.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\mute.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\typewriter-backspace-1.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\typewriter-forward-1.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\typewriter-key-1.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\typewriter-line-break-1.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\typewriter-paper-roll-up-1.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\typewriter-return-1.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\typewriter-space-bar-1.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\elegantdying.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\blank.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\buttonBG.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\checkbox.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\checkbox_empty.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\checked.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\Error.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\gamercardHUD.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\icon.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\mediaHUD.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\menuFocus.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\messagebox.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\mouse.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\msgBox_button.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\msgBox_buttonFocus.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\msgbox_text.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\msgbox_yesno.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\solid.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\transparent.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\neatlogo.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\buttonBG1.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\WindowSheet.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\pointers.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\Kinect\Bone.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\Kinect\ChooserBackground.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\Kinect\Header.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\Kinect\Joint.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\Kinect\tiltbuttons.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\neatmsg.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\Triangle.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\ColorFilter.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\Ripple.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\Crop.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\TextureWrapper.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\Circle.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\KinectColorVisualizer.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\KinectDepthVisualizer.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\Saturation.xnb
+E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sounds\blank.wma

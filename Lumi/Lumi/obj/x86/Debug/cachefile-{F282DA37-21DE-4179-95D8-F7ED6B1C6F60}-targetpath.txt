@@ -1,0 +1,5 @@
+Content\Sprites\standing-walking.xnb
+Content\Sprites\editor.xnb
+Content\Sprites\sheet1.xnb
+Content\Effects\TexLighting.xnb
+Content\Effects\Shadow.xnb

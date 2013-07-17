@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\standing-walking.png</Source>
+      <Name>Sprites\standing-walking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\standing-walking.xnb</Output>
+      <Time>2012-07-04T19:45:29.2494804+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\editor.png</Source>
+      <Name>Sprites\editor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\editor.xnb</Output>
+      <Time>2012-07-17T18:46:14.7808666+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\sheet1.png</Source>
+      <Name>Sprites\sheet1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Sprites\sheet1.xnb</Output>
+      <Time>2012-08-07T15:42:23.8027891+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\TexLighting.fx</Source>
+      <Name>Effects\TexLighting</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\TexLighting.xnb</Output>
+      <Time>2012-07-27T18:24:43.456836+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Shadow.fx</Source>
+      <Name>Effects\Shadow</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\Effects\Shadow.xnb</Output>
+      <Time>2012-07-06T00:11:42.6707871+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\LumiContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\LumiContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Old Stuff\Docs\Visual Studio 2010\Projects\Lumi\Lumi\Lumi\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-07-17T16:42:20.0152637+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
